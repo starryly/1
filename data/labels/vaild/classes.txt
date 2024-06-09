@@ -1,0 +1,11 @@
+crosswalk
+limit-speed
+STOP
+NO Parking
+Prohibition sign
+Warning sign
+Descriptive sign
+Directional sign
+Traffic light
+d
+w
